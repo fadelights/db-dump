@@ -1,4 +1,4 @@
-# db-dump
+# db-dumps
 Demo databases, subset of real world ones.
 
 The database dump files in this repo may be used to create
